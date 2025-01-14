@@ -11,7 +11,7 @@ with open("messages.txt", "r") as file:
 def changestatus(message):
 
     header = {
-        "authorization": "" 
+        "authorization": "ADD_YOUR_HEADER_HERE" 
     }
 
 
